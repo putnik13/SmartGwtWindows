@@ -1,0 +1,2 @@
+serviceClass: ua.org.alex.client.GreetingService
+path: F3D97A625F313F5CEC3A908F0A702F2A.gwt.rpc
